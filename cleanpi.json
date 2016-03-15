@@ -1,0 +1,23 @@
+{
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "bin1" : "mamura",
+                  "bin2" : "sector62",
+                  "bin3" :"sector58"
+               },
+               "status" : {
+                  "bin1" : "ok",
+                  "bin2" : "ok",
+                  "bin3" :"full"
+                   
+               }
+                
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
